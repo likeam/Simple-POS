@@ -110,7 +110,7 @@ const POS = () => {
                   <td>
                     <button className="btn btn-danger btn-sm">Remove</button>
                   </td>
-                 </tr>) : "No Item in Cart" 
+                 </tr>) : "No Items in Cart" 
               }
             </tbody>
           </div>
